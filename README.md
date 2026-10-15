@@ -61,4 +61,5 @@ git clone https://github.com/Yutai233/NUIST-stem-lab-report-skill.git "$env:USER
 
 ## 新增课程
 如果你有更多的改进建议or愿意无偿提供更多的课程实验报告，欢迎联系我：Yu_tai233@outlook.com。
+
 新增课程时，先阅读 `references/new-course-integration.md`，再登记课程提示词、模板、实例来源和可借鉴范围。未登记课程可以使用 `references/general-stem-lab-prompt.md`，但当前教师规范始终优先。
