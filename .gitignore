@@ -1,0 +1,24 @@
+# Word and office temporary files
+~$*.docx
+~$*.doc
+*.tmp
+*.bak
+
+# Generated deliverables and local working directories
+output/
+outputs/
+dist/
+draft/
+*.pdf
+
+# Python and editor caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Windows/macOS metadata
+Thumbs.db
+.DS_Store
