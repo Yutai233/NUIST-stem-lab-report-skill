@@ -20,7 +20,7 @@
 ### 方法一：下载 ZIP 后交给 Agent 安装（推荐）
 
 1. 打开本仓库的 GitHub 页面，点击绿色的 **Code**，再点击 **Download ZIP**。
-2. 将下载的 ZIP 文件提供给你的 Agent，并发送下面的请求：
+2. 将下载的 ZIP 文件提供给你的 Agent（**例如Codex、WorkBuddy、Zcode等**），并发送下面的请求：
 
 ```text
 请安装这个实验报告 Skill。请解压文件，读取 SKILL.md，并按照当前 Agent 的 Skill 目录规范完成安装；如果不支持自动安装，请告诉我应该复制到哪个目录。
