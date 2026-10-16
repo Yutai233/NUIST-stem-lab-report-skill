@@ -59,7 +59,7 @@ metadata:
 
 - 完整报告涉及实验照片、截图、指南插图、数据绘图或多图对应时，先读 [references/figure-evidence.md](references/figure-evidence.md)，在本任务工作目录建立 `图片证据笔记.md`。纯文字修改、仅封面标志不启动完整流程；局部换图只登记和核对受影响图片及引用。
 - 先识别原图并登记来源、可见信息、条件依据和实验关联，再组织相关论述；关键读数和状态回看原图，不把笔记当作正确答案。旋转、裁剪或拼图后再次核对信息是否保留。未登记的实验图片不得进入正文。
-- 成稿回填实际图号、图题、正文引用及最终页码，运行结构辅助检查并按 [references/docx-pdf-qa.md](references/docx-pdf-qa.md) 核对图面、图注、正文和最终页面。脚本通过不等于语义、来源或视觉验收通过。
+- 成稿回填实际图号、图题、正文引用及最终页码；有 Python 和 Pillow 时运行结构辅助检查，否则按 [references/figure-evidence.md](references/figure-evidence.md) 的人工降级流程逐项执行并明确记录“未运行脚本”。之后按 [references/docx-pdf-qa.md](references/docx-pdf-qa.md) 核对图面、图注、正文和最终页面。脚本通过不等于语义、来源或视觉验收通过。
 
 ## 资源加载规则
 
