@@ -45,7 +45,7 @@
 - `agents/openai.yaml`：Codex 界面元数据
 - `references/`：通用规则、课程登记表、新课程接入要求和 DOCX/PDF 验收规则
 - `scripts/`：只读图片结构辅助检查及测试（依赖 Python 和 Pillow；不能替代图面语义与逐页视觉检查）
-- 各课程目录：课程专属提示词、Word 模板和经过整理的参考实例
+- 各课程目录：课程专属提示词、Word 模板和经过整理的参考实例；电子设计自动化实验按 ADS、HFSS、Altium Designer 软件分类组织
 
 ## Star History
 
