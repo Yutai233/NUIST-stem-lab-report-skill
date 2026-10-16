@@ -22,3 +22,8 @@ venv/
 # Windows/macOS metadata
 Thumbs.db
 .DS_Store
+
+# Original analog IC reports contain personal information
+/模拟集成电路实验报告/实验*.docx
+/模拟集成电路实验报告/实验*.pdf
+/模拟集成电路实验报告/封面及实验报告结构.docx
