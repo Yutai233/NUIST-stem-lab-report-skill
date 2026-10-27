@@ -1,6 +1,6 @@
 interface:
   display_name: "南信大理工科实验报告"
-  short_description: "按南信大课程资源生成并验收理工科实验报告，按需辅助仿真"
-  default_prompt: "使用 $nuist-stem-lab-report，根据当前实验材料选择课程提示词和 Word 模板，生成并检查 DOCX/PDF 报告；用户明确要求时再按 simulation/ 工作流执行仿真搭建、求解与验收。"
+  short_description: "按南信大课程资源生成并验收理工科实验报告"
+  default_prompt: "使用 $nuist-stem-lab-report，根据当前实验材料选择课程提示词和 Word 模板，生成并检查 DOCX/PDF 报告。"
 policy:
   allow_implicit_invocation: true

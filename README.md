@@ -48,7 +48,6 @@
 - `agents/openai.yaml`：Codex 界面元数据
 - `references/`：通用规则、课程登记表、新课程接入要求和 DOCX/PDF 验收规则
 - `scripts/`：只读图片结构辅助检查及测试（依赖 Python 和 Pillow；不能替代图面语义与逐页视觉检查）
-- `simulation/`：仿真辅助层，含加载顺序、证据与验收规则、Multisim XML 与原生执行工作流及可传参原生执行器（`simulation/scripts/`）；仅在用户要求仿真搭建、核验或实际执行时加载，不作为报告生成的默认步骤
 - 各课程目录：课程专属提示词、Word 模板和经过整理的参考实例；电子设计自动化实验按 ADS、HFSS、Altium Designer 软件分类组织；独立的 EDA设计与仿真课程按 Multisim 仿真和 Altium 原理图/PCB 设计选择提示词中的对应分支与模板，材料来源见各课程的来源说明；电路分析实验另有仿真实验卡
 
 ## Star History
